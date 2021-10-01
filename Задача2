@@ -1,0 +1,4 @@
+a = float(input ("длина= "))
+b = float(input ("ширина= "))
+S=a*b
+print(S)
