@@ -1,0 +1,5 @@
+a = float(input("час= "))
+b = float(input("минуты= "))
+с = float(input("секунды= "))
+s = a*3600+b*60+c
+print(s)
